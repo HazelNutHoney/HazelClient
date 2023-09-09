@@ -30,8 +30,8 @@ Here're some of the project's best features:
 <p>1. Downloads Windows / Linux</p>
 
 >[![windows](https://img.shields.io/badge/10+-Windows-509afa?style=for-the-badge&logo=Windows&logoColor=white)]()
->[![debain](https://img.shields.io/badge/11+-Debian-509afa?style=for-the-badge&logo=debian&logoColor=white)]()
->[![ubuntu](https://img.shields.io/badge/22.04+-Ubuntu-509afa?style=for-the-badge&logo=ubuntu&logoColor=white)]()
+>[![debain](https://img.shields.io/badge/11+-Debian-fa5050?style=for-the-badge&logo=debian&logoColor=white)]()
+>[![ubuntu](https://img.shields.io/badge/22.04+-Ubuntu-fa8650?style=for-the-badge&logo=ubuntu&logoColor=white)]()
 
 <p>2. Install via Git</p>
 
