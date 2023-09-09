@@ -59,6 +59,7 @@ Install to Discord
 >```
 >pnpm run
 >```
+
 >or
 
 >Discord Stable
@@ -108,6 +109,7 @@ Install to Discord
 >```
 >pnpm run
 >```
+
 >or
 
 >Discord Stable
