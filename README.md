@@ -27,11 +27,13 @@ Here're some of the project's best features:
 
 <h2>🛠️ Installation Steps:</h2>
 
-<p>1. Windows - Exe</p>
+<p>1. Downloads Windows / Linux</p>
 
->[![windows](https://img.shields.io/badge/7+-Windows-509afa?style=for-the-badge&logo=Windows)]()
+>[![windows](https://img.shields.io/badge/10+-Windows-509afa?style=for-the-badge&logo=Windows&logoColor=white)]()
+>[![debain](https://img.shields.io/badge/11+-Debian-509afa?style=for-the-badge&logo=debian&logoColor=white)]()
+>[![ubuntu](https://img.shields.io/badge/22.04+-Ubuntu-509afa?style=for-the-badge&logo=ubuntu&logoColor=white)]()
 
-<p>2. Windows - Git</p>
+<p>2. Install via Git</p>
 
 Clone your github repo
 ```
@@ -82,7 +84,7 @@ Install to Discord
 >pnpm run -b {DISCORD_TYPE} -p {DISCORD_INSTALL_PATH}
 >```
 
-<p>3. Window - GitHub Cli</p>
+<p>3. Install via GitHub Cli (Recomended)</p>
 
 ```
 gh repo clone HazelNutHoney/HazelClient
