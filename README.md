@@ -1,6 +1,6 @@
 <h1 align="center" id="title">Hazel Client</h1>
 
-<p align="center"><img src="https://socialify.git.ci/HazelNutHoney/HazelClient/image?font=Inter&amp;forks=1&amp;issues=1&amp;name=1&amp;owner=1&amp;pulls=1&amp;stargazers=1&amp;theme=Auto" alt="project-image"></p>
+<p align="center"><img src="https://lh3.googleusercontent.com/u/4/drive-viewer/AITFw-zR8X-km4WxVxwOBcau9YK9D5pH9wxbYLc7amwWt2r6lMbwpA4q7l5Yvca9r5Sp5EpEkTA62jXoQQo01elsacMl4j_SdQ=w1920-h868"></p>
 
 <p id="description">A Modification to the normal discord app! With tons of features and flexibility!</p>
 
