@@ -1,6 +1,6 @@
 <h1 align="center" id="title">Hazel Client</h1>
 
-<p align="center"><img src="https://drive.google.com/file/d/1H0ikoEpTEQvgsua-gC2DTU1BsZKbi8Tz/view?usp=drivesdk"></p>
+<p align="center"><img src="https://i.ibb.co/dpx8rGF/Banner-Hazel-Client.png"></p>
 
 <p id="description">A Modification to the normal discord app! With tons of features and flexibility!</p>
 
